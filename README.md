@@ -3,7 +3,8 @@
 * OpenGL(c++), GLSL Shaders
 
 ## Usage
-* Run build/rotate_sphere.exe and input filename (eg. "1024.txt", "8.txt")
+* System: MacOS 10.13.3
+* Run build/RotateSphere and input filename (eg. "1024.txt", "8.txt")
 * Click "b"/"B" on keyboard to begin
 * Right click to stop/move the ball
 * Left click to edit setting
